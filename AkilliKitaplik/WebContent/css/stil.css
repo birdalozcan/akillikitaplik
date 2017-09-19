@@ -1,0 +1,80 @@
+.renk
+{
+    background-color:aquamarine;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+.yazi_tipi_login
+{
+	font-family:Calibri;
+	font-size:24px;
+	color:#333333;
+	background-color:#f5f5f5;
+	
+	border-radius: 10px; /* Standart */
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari ve Chrome */
+
+}
+
+.dis_cerceve
+{
+	border:solid 1px #E0E0E0;
+	background-color:ffffff;
+	
+	border-radius: 10px; /* Standart */
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari ve Chrome */
+}
+
+.ufak_yazilar
+{
+	font-family:Calibri;
+	font-size:18px;
+	color:#333333;
+}
+
+.textbox
+{
+	width:385px;
+	height:40px;
+	background-color:#FFFFFF;
+	border:dotted 1px #000000;
+	font-family:Calibri;
+	font-size:16px;
+	color:#666666;
+	
+	border-radius: 7px; /* Standart */
+    -moz-border-radius: 7px; /* Firefox */
+    -webkit-border-radius: 7px; /* Safari ve Chrome */
+
+}
+
+.buton
+{
+	width:385px;
+	height:40px;
+	background-color:#5CB85C;
+	border:solid 1px #FFFFFF;
+	color:#FFFFFF;
+	font-family:Calibri;
+	font-size:18px;
+	
+	border-radius: 10px; /* Standart */
+    -moz-border-radius: 10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari ve Chrome */
+
+}
+
+.textbox_profil
+{
+	width:385px;
+	height:40px;
+	background-color:#000000;
+	border:dotted 1px #000000;
+	font-family:Calibri;
+	font-size:16px;
+	color:#666666;
+}
+
